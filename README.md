@@ -56,6 +56,13 @@ Soy una apasionada de los datos y la música. Actualmente trabajo en sistemas de
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=black&style=flat-square)
  -->
 
+### Índice de repositorios
+
+| Nombre del Repositorio | Descripción                                     |
+|-------------------------|-------------------------------------------------|
+| [template-datascience-project](https://github.com/sofiavalino/template-datascience-project) | Propone una estructura template de proyecto de data science. |
+| [shared-resources](https://github.com/sofiavalino/shared-resources) | Contiene recursos utilizados en distintos proyectos, como logs e importación de datos. |
+
 ### 📧 Contacto
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sofiavalino/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:valinosofia@gmail.com)
